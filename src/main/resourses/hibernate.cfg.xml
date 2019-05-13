@@ -8,9 +8,9 @@
     <session-factory>
         <!-- 数据库连接设置 -->
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://localhost:3306/hibernate_demo?useUnicode=true&amp;characterEncoding=utf-8</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/idea?useUnicode=true&amp;characterEncoding=utf-8</property>
         <property name="connection.username">root</property>
-        <property name="connection.password">123</property>
+        <property name="connection.password">123456</property>
         <!-- 数据库连接池的连接数 -->
         <property name="connection.pool_size">10</property>
         
